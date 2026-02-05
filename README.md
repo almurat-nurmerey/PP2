@@ -1,2 +1,2 @@
-# Practice1
-Practice 1 examples from W3School
+# Programming Principles II
+PP2 Practices
