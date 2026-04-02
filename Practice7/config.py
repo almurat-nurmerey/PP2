@@ -1,6 +1,5 @@
-DB_CONFIG = {
+config = {
     "host": "localhost",
-    "port": 5432,
     "database": "phonebook_db",
     "user": "postgres",
     "password": "freefiregovno999"
